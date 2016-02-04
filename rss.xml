@@ -4,8 +4,15 @@
         <description><![CDATA[The Magic - Unique Vocals & Solo Instruments]]></description>
         <link>https://thegrid.ai/themagicvocals/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Feb 2016 22:37:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Feb 2016 22:45:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/themagicvocals/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/91f3b8e51a979f7ff930bd9f0a5fce97d481146f.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/themagicvocals/35fb5e13-be57-4ca0-a808-6fb3d4ee5f46/index.html</link>
+            <guid isPermaLink="false">35fb5e13-be57-4ca0-a808-6fb3d4ee5f46</guid>
+            <pubDate>Thu, 04 Feb 2016 22:45:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a762e26b-8328-41b4-89b9-e56d71e82441.JPG" alt="" title="">]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/themagicvocals/c121f77f-b71d-4f7a-91d9-e534f2d1b87e/index.html</link>
             <guid isPermaLink="false">c121f77f-b71d-4f7a-91d9-e534f2d1b87e</guid>
             <pubDate>Thu, 04 Feb 2016 22:34:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a1972c5-8927-4aa1-b032-98e3beb63811.jpg">]]></description>
-            <link>https://thegrid.ai/themagicvocals/35fb5e13-be57-4ca0-a808-6fb3d4ee5f46/index.html</link>
-            <guid isPermaLink="false">35fb5e13-be57-4ca0-a808-6fb3d4ee5f46</guid>
-            <pubDate>Thu, 04 Feb 2016 21:54:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
